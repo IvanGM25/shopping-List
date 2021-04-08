@@ -1,0 +1,19 @@
+menu{
+    background-color: mediumpurple;
+    padding: auto;
+    margin: auto;
+}
+
+menu ul{
+    display: flex;
+    margin: auto;
+    padding: auto;
+    list-style: none;
+}
+
+menu ul li a{
+    display: block;
+    color: ghostwhite;
+    text-decoration: wavy;
+    padding: 10px 15px;
+}
