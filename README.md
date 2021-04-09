@@ -1,5 +1,5 @@
 # ShoppingList
-
+The Shopping-List is a basic app for make a list shop.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
 ## Development server
