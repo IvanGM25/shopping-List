@@ -11,7 +11,7 @@ import { TotalComponent } from './total/total.component';
 import { AddItemComponent } from './add-item/add-item.component';
 import { FormsModule } from '@angular/forms';
 
-import {HttpClientModule} from '@angular/common/http';
+
 
 @NgModule({
   declarations: [		
@@ -25,8 +25,8 @@ import {HttpClientModule} from '@angular/common/http';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule,
-    HttpClientModule
+    FormsModule
+ 
   ],
   providers: [],
   bootstrap: [AppComponent]
